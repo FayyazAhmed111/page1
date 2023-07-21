@@ -1,0 +1,128 @@
+.macbook-pro {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div-2 {
+  background: linear-gradient(180deg, rgb(215, 105.8, 5) 0%, rgb(224, 65.92, 16) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px none;
+  height: 982px;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro .overlap-group {
+  height: 842px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 1512px;
+}
+
+.macbook-pro .removal {
+  height: 607px;
+  left: 751px;
+  object-fit: cover;
+  position: absolute;
+  top: 235px;
+  width: 761px;
+}
+
+.macbook-pro .h-1 {
+  color: #ffffff;
+  font-family: "Passion One", Helvetica;
+  font-size: 250px;
+  font-weight: 400;
+  left: 339px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.macbook-pro .img {
+  height: 676px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 893px;
+}
+
+.macbook-pro .removal-2 {
+  height: 781px;
+  left: 161px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 1177px;
+}
+
+.macbook-pro .the-ultimate-AI {
+  -webkit-text-stroke: 1px #535353de;
+  color: #ffffff;
+  font-family: "Passion One", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 131px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+}
+
+.macbook-pro .div-wrapper {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(43.39, 119.22, 208.25) 0%, rgb(103.78, 64, 217) 100%);
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 50px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 233px;
+  overflow: hidden;
+  padding: 28px 66px;
+  position: absolute;
+  top: 589px;
+}
+
+.macbook-pro .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Clarity City-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.macbook-pro .frame-5 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(43.39, 119.22, 208.25) 0%, rgb(103.78, 64, 217) 100%);
+  border-radius: 50px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 921px;
+  overflow: hidden;
+  padding: 28px 24px;
+  position: absolute;
+  top: 589px;
+}
+
+.macbook-pro .group-1000002672 {
+  left: 39px !important;
+  position: absolute !important;
+  top: 24px !important;
+}

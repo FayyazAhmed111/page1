@@ -1,0 +1,25 @@
+.frame {
+  align-items: center;
+  background-color: #090909;
+  border-radius: 20px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 11px 32px;
+  position: relative;
+}
+
+.frame .sign-up {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
